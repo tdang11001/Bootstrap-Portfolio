@@ -9,3 +9,7 @@ p#footer {
 	margin-top: 10px;
 }
 
+img#pic1, img#pic2, img#pic3, img#pic4, img#pic5, img#pic6  {
+	width: 249px;
+	height: 125px;
+}
