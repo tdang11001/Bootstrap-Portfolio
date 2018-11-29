@@ -4,8 +4,8 @@ footer {
 
 }
 
-p#footer {
-	color: white;
+#footer {
+	color: red;
 	margin-top: 10px;
 }
 
