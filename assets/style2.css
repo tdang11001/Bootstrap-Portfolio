@@ -9,7 +9,24 @@ footer {
 	margin-top: 10px;
 }
 
-img#pic1, img#pic2, img#pic3, img#pic4, img#pic5, img#pic6  {
+
+
+/* Container holding the image and the text */
+.containerText {
+    position: relative;
+	text-align: center;
 	width: 290px;
 	height: 145px;
+    
+}
+
+/* Centered text */
+.center {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	background-color: teal;
+	width: 100%;
 }
